@@ -1,0 +1,90 @@
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-03-19\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.exe
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-03-19\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.deps.json
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-03-19\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.runtimeconfig.json
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-03-19\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.runtimeconfig.dev.json
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-03-19\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.dll
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-03-19\RoboCar\RoboCar\bin\Debug\net5.0-windows\ref\RoboCar.dll
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-03-19\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.pdb
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-03-19\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.csproj.AssemblyReference.cache
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-03-19\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.Form1.resources
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-03-19\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.csproj.GenerateResource.cache
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-03-19\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-03-19\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.AssemblyInfoInputs.cache
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-03-19\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.AssemblyInfo.cs
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-03-19\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.csproj.CoreCompileInputs.cache
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-03-19\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.dll
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-03-19\RoboCar\RoboCar\obj\Debug\net5.0-windows\ref\RoboCar.dll
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-03-19\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.pdb
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-03-19\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.genruntimeconfig.cache
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-04-19\pr4\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.exe
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-04-19\pr4\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.deps.json
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-04-19\pr4\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.runtimeconfig.json
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-04-19\pr4\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.runtimeconfig.dev.json
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-04-19\pr4\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.dll
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-04-19\pr4\RoboCar\RoboCar\bin\Debug\net5.0-windows\ref\RoboCar.dll
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-04-19\pr4\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.pdb
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-04-19\pr4\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.csproj.AssemblyReference.cache
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-04-19\pr4\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.Form1.resources
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-04-19\pr4\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.csproj.GenerateResource.cache
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-04-19\pr4\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-04-19\pr4\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.AssemblyInfoInputs.cache
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-04-19\pr4\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.AssemblyInfo.cs
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-04-19\pr4\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.csproj.CoreCompileInputs.cache
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-04-19\pr4\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.dll
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-04-19\pr4\RoboCar\RoboCar\obj\Debug\net5.0-windows\ref\RoboCar.dll
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-04-19\pr4\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.pdb
+C:\Users\sekou\Dropbox\Files\year 2022\мирэа\преподавание\МИИ\крбо-04-19\pr4\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.genruntimeconfig.cache
+C:\Users\User\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.exe
+C:\Users\User\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.deps.json
+C:\Users\User\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.runtimeconfig.json
+C:\Users\User\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.runtimeconfig.dev.json
+C:\Users\User\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.dll
+C:\Users\User\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\bin\Debug\net5.0-windows\ref\RoboCar.dll
+C:\Users\User\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.pdb
+C:\Users\User\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.csproj.AssemblyReference.cache
+C:\Users\User\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.Form1.resources
+C:\Users\User\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.csproj.GenerateResource.cache
+C:\Users\User\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.AssemblyInfoInputs.cache
+C:\Users\User\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.AssemblyInfo.cs
+C:\Users\User\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.csproj.CoreCompileInputs.cache
+C:\Users\User\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.dll
+C:\Users\User\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\obj\Debug\net5.0-windows\ref\RoboCar.dll
+C:\Users\User\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.pdb
+C:\Users\User\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.genruntimeconfig.cache
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.exe
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.deps.json
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.runtimeconfig.json
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.runtimeconfig.dev.json
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.dll
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\bin\Debug\net5.0-windows\ref\RoboCar.dll
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.pdb
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.csproj.AssemblyReference.cache
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.Form1.resources
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.csproj.GenerateResource.cache
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.AssemblyInfoInputs.cache
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.AssemblyInfo.cs
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.csproj.CoreCompileInputs.cache
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.dll
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\obj\Debug\net5.0-windows\ref\RoboCar.dll
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.pdb
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.genruntimeconfig.cache
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\МПП, генерация датасета\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.exe
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\МПП, генерация датасета\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.deps.json
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\МПП, генерация датасета\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.runtimeconfig.json
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\МПП, генерация датасета\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.runtimeconfig.dev.json
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\МПП, генерация датасета\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.dll
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\МПП, генерация датасета\RoboCar\RoboCar\bin\Debug\net5.0-windows\ref\RoboCar.dll
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\МПП, генерация датасета\RoboCar\RoboCar\bin\Debug\net5.0-windows\RoboCar.pdb
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\МПП, генерация датасета\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.csproj.AssemblyReference.cache
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\МПП, генерация датасета\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.Form1.resources
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\МПП, генерация датасета\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.csproj.GenerateResource.cache
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\МПП, генерация датасета\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\МПП, генерация датасета\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.AssemblyInfoInputs.cache
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\МПП, генерация датасета\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.AssemblyInfo.cs
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\МПП, генерация датасета\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.csproj.CoreCompileInputs.cache
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\МПП, генерация датасета\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.dll
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\МПП, генерация датасета\RoboCar\RoboCar\obj\Debug\net5.0-windows\ref\RoboCar.dll
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\МПП, генерация датасета\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.pdb
+C:\Users\sekou\Dropbox\Files\const\2 преподавание\лекции и практика\МИИ\практика\МПП, генерация датасета\RoboCar\RoboCar\obj\Debug\net5.0-windows\RoboCar.genruntimeconfig.cache
